@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ItP_midterm.dir/Ivan_Domrachev.cpp.o  -o ItP_midterm.exe -Wl,--out-implib,libItP_midterm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

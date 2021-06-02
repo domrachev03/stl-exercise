@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/MainFolder/programmes/CLIonProjects/ItP_midterm/Ivan_Domrachev.cpp
+iostream
+-
+vector
+-
+stack
+-
+random
+-
+string
+-
+list
+-
+climits
+-
+
